@@ -1,0 +1,9 @@
+fastmcp==0.2.0
+requests>=2.31.0
+python-dotenv>=1.0.1
+fpdf>=1.7.2
+starlette>=0.37.0
+uvicorn>=0.30.0
+pdf2image>=1.16.3
+python-multipart>=0.0.9
+Pillow>=10.2.0

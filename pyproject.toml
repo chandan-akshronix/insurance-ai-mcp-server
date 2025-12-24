@@ -1,0 +1,14 @@
+[project]
+name = "insurance-mcp-server"
+version = "0.1.0"
+description = "Standalone MCP server for Insurance AI tools"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "fastmcp",
+  "requests",
+  "python-dotenv",
+  "fpdf",
+  "starlette",
+  "uvicorn"
+]
