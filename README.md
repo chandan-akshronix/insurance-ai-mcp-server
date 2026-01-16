@@ -1,4 +1,4 @@
-# Insurance MCP Server
+# Insurance MCP Servers
 
 This repository contains a standalone MCP (fastmcp) server exposing tools used by the Insurance LangGraph pipeline.
 It was generated to mirror and extract the `app/mcp_server` components from the main project.
